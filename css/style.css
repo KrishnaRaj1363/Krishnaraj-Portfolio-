@@ -257,6 +257,9 @@ span {
 .react-bar {
   width: 80%;
 }
+.anchor:hover{
+  text-decoration: underline;
+}
 .services-content {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, auto));
