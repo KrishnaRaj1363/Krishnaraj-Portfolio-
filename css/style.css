@@ -128,6 +128,7 @@ header.shadow {
 }
 .home-img img {
   width: 100%;
+  height: 35rem;
 }
 .home-text span {
   font-size: var(--medium-font);
